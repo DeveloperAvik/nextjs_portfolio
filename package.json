@@ -1,0 +1,39 @@
+{
+  "name": "next-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "next": "^12.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-slick": "^0.29.0",
+    "reactstrap": "^9.1.1",
+    "remixicon": "^2.5.0",
+    "slick-carousel": "^1.8.1",
+    "sparkpost": "^2.1.4"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwithmuhib/Next.js-Portfolio-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingwithmuhib/Next.js-Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/codingwithmuhib/Next.js-Portfolio-Website#readme"
+}
